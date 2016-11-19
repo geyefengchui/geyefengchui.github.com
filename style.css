@@ -30,6 +30,7 @@ div#content{display:flex;}
 ul#articlename { min-width: 200px; padding: 15px 20px 0px 65px; list-style-type: none;}
 div#article {left: 300px;text-indent:26px;  border-left: solid 1.5px black; padding: 0px 200px 100px 70px;}
 h6{text-align: center;}
+hr{border:0px; background-color: balck; height:1px}
 
 
 
