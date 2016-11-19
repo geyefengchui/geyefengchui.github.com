@@ -29,9 +29,6 @@ div#menu table tr td{display: inline;padding: 0px 10px; width:20px; border: 0px;
 div#content{display:flex;}
 ul#articlename { min-width: 200px; padding: 15px 20px 0px 65px; list-style-type: none;}
 div#article {left: 300px;text-indent:26px;  border-left: solid 1.5px black; padding: 30px 0px 100px 100px;}
-hr {
-    height: 1.5px;
-}
 
 
 
